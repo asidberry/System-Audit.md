@@ -73,12 +73,15 @@ My operating system ([Windows 11 Pro]) uses [RBAC] as its primary Access Control
 **Security Risk Hypothesis:** 
 [Example: The attacker can use a malicious PDF file to compromise the system and steal data.] 
 
-## Screenshots of Operations System
+## Screenshots of Operations System/ Git Clone
 
  <img width="1851" height="850" alt="System Inventory 1" src="https://github.com/user-attachments/assets/ef619d33-0e5c-474b-a8bf-5963c658567b" />
 
 
 <img width="1852" height="622" alt="System Inventory 2" src="https://github.com/user-attachments/assets/34a042a5-d564-4a79-ae1c-bccedab0e087" />
+
+
+<img width="713" height="251" alt="image" src="https://github.com/user-attachments/assets/865b39d0-728d-45a0-9e71-c763617fc59c" />
 
 --- 
  
