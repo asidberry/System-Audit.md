@@ -29,7 +29,7 @@ Total Installed RAM | [ 16.0 GB (15.5 GB usable]
 ## Section 2: The Access Control Model 
  
 ### Model Definition 
-My operating system ([Windows 11 Pro]) uses [RBAC] (Define the acronym) as its primary Access Control Model. 
+My operating system ([Windows 11 Pro]) uses [RBAC] as its primary Access Control Model. 
  
 **Definition:** [Role-Based Access Control is an access control model where permissions are assigned to roles, and users receive access based on their assigned job role within an organization.] 
  
@@ -40,7 +40,6 @@ My operating system ([Windows 11 Pro]) uses [RBAC] (Define the acronym) as its p
 [ Administrators enforce the Principle of Least Privilege by using Role Based Access Control to assign permissions to the roles based on job functions. The users are added to the role based on their job responsibilities.] 
  
 **Concrete Example:** 
-[Provide a specific example from your OS. Examples: 
 
 - Windows: The Administrator creates security groups that define read, write, and execute permissions to users. Windows will enforce these permissions by blocking unauthorized access by requiring permission from certain users.  
  
@@ -62,7 +61,7 @@ My operating system ([Windows 11 Pro]) uses [RBAC] (Define the acronym) as its p
 - **Resource Consumption:** [RAM: 3.27 GB] 
  
 **Security Risk Hypothesis:** 
-[Example: The attacker could take advantage of a browsers vulnerability to compromise the system, users data and network access.] 
+[Example: The attacker could take advantage of a browsers vulnerability to compromise the system, users data and network access and leak information.] 
  
 ### Process 3: [Adobe Acrobat] 
 - **Process Name:** [armsvc.exe] 
