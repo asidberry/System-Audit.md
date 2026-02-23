@@ -34,7 +34,7 @@ My operating system ([Windows 11 Pro]) uses [RBAC] as its primary Access Control
 **Definition:** [Role-Based Access Control is an access control model where permissions are assigned to roles, and users receive access based on their assigned job role within an organization.] 
  
 ### Relationship to Permissions 
-[ IN RBAC, users are assigned read, write, and execute permissions based on their assigned role.] 
+[ In RBAC, users are assigned read, write, and execute permissions based on their assigned role.] 
  
 ### Principle of Least Privilege (PoLP) Application 
 [ Administrators enforce the Principle of Least Privilege by using Role Based Access Control to assign permissions to the roles based on job functions. The users are added to the role based on their job responsibilities.] 
