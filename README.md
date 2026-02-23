@@ -33,7 +33,10 @@ Total Installed RAM | [ 16.0 GB (15.5 GB usable]
 ### Model Definition 
 My operating system ([Windows 11 Pro]) uses [RBAC] as its primary Access Control Model. 
  
-**Definition:** [Role-Based Access Control is an access control model where permissions are assigned to roles, and users receive access based on their assigned job role within an organization.] 
+**Definition:** [Role-Based Access Control is an access control model where permissions are assigned to roles, and users receive access based on their assigned job role within an organization (Microsoft, n.d.).] 
+
+Citation: Microsoft. “What Is Access Control?” Microsoft Security 101, Microsoft, https://www.microsoft.com/en-us/security/business/security-101/what-is-access-control#:~:text=Role%2Dbased%20access%20control%20(RBAC,their%20jobs%E2%80%94and%20no%20more
+. Accessed 03 Feb. 2026.
  
 ### Relationship to Permissions 
 [ In RBAC, users are assigned read, write, and execute permissions based on their assigned role.] 
