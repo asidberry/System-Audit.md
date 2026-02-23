@@ -46,8 +46,7 @@ Citation: Microsoft. “What Is Access Control?” Microsoft Security 101, Micro
  
 **Concrete Example:** 
 
-- Windows: The Administrator creates security groups that define read, write, and execute permissions to users. Windows will enforce these permissions by blocking unauthorized access by requiring permission from certain users.  
- 
+- Windows: The Administrator sets up security groups that define users’ read, write, and execute permissions. Windows enforces these permissions by preventing unauthorized access, requiring approval from the designated user or manager. For example, on my work computer, I only have access to applications and information necessary for my job duties. If I need additional access to certain files to make edits or write data, I must obtain approval from the manager responsible for those files.
 --- 
  
 ## Section 3: Top Process Analysis & Risk 
@@ -55,7 +54,8 @@ Citation: Microsoft. “What Is Access Control?” Microsoft Security 101, Micro
 ### Process 1: [Bash] 
 - **Process Name:** [bash.exe] 
 - **Process ID (PID):** [1492] 
-- **Resource Consumption:** [CPU: 0%] 
+- **Resource Consumption:** [CPU: 0%]
+- What is Bash? An application used to interact with an operating system. It allows users to run commands, manage files and directories, automate tasks with scripts, and execute programs.
  
 **Security Risk Hypothesis:** 
 [Example: An attacker could execute unauthorized commands and gain access to sensitve files or network resources.] 
@@ -63,7 +63,8 @@ Citation: Microsoft. “What Is Access Control?” Microsoft Security 101, Micro
 ### Process 2: [Google Chrome] 
 - **Process Name:** [chrome.exe] 
 - **Process ID (PID):** [28036] 
-- **Resource Consumption:** [RAM: 3.27 GB] 
+- **Resource Consumption:** [RAM: 3.27 GB]
+- What is Google Chrome? Google Chrome is a web browser developed by Google that allows users to access and navigate the internet.
  
 **Security Risk Hypothesis:** 
 [Example: The attacker could take advantage of a browsers vulnerability to compromise the system, users data and network access and leak information.] 
@@ -71,7 +72,8 @@ Citation: Microsoft. “What Is Access Control?” Microsoft Security 101, Micro
 ### Process 3: [Adobe Acrobat] 
 - **Process Name:** [armsvc.exe] 
 - **Process ID (PID):** [5680] 
-- **Resource Consumption:** [RAM: 170 KB] 
+- **Resource Consumption:** [RAM: 170 KB]
+- What is Adobe Acrobat? Adobe Acrobat is a program that lets you view, create, edit, and share PDF files.
  
 **Security Risk Hypothesis:** 
 [Example: The attacker can use a malicious PDF file to compromise the system and steal data.] 
