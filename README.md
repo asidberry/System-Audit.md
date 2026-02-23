@@ -53,7 +53,7 @@ My operating system ([Windows 11 Pro]) uses [RBAC] as its primary Access Control
 - **Resource Consumption:** [CPU: 0%] 
  
 **Security Risk Hypothesis:** 
-[ An attacker could execute unauthorized commands and gain access to sensitve files or network resources.] 
+[Example: An attacker could execute unauthorized commands and gain access to sensitve files or network resources.] 
  
 ### Process 2: [Google Chrome] 
 - **Process Name:** [chrome.exe] 
